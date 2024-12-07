@@ -1,11 +1,6 @@
 # weather_app
 
-Packages:   
-    - geolocator
-    - weather
-    - intl
-    - flutter_bloc
-    - equatable
+Packages: geolocator, weather, intl, flutter_bloc, equatable
 
 ## Presentation
 
